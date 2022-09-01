@@ -29,15 +29,15 @@ nav {
   font-size:large;
 } */
 
-.main{
+/* .main{
   background-image: url("./Group.png") ;
   padding-block: 50px;
   background-repeat: no-repeat;
   background-position-x: right ;
   background-position-y:  center;
-  /* background-color: white;
-  color: #2B283A; */
-}
+  background-color: white;
+  color: #2B283A;
+} */
 /* main {
   padding: 57px 27px;
   background-image: url("./images/react-icon-light.png"); 
